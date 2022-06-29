@@ -1,0 +1,7 @@
+1 :: Apple :: iPhone 6S :: 32Gb :: 35000 :: 3
+2 :: Apple :: iPhone SE :: 16Gb :: 30000 :: 6
+3 :: Samsung :: Galaxy S7 :: 32Gb :: 35000 :: 3
+4 :: Samsung :: Galaxy S6 Edge :: 32Gb :: 30000 :: 4
+5 :: Apok :: erewq :: 32gb :: 432 :: 34
+6 :: Apok :: ert :: 45gb :: 23434 :: 3
+7 :: frog :: fory :: 45gb :: 34333 :: 23
